@@ -47,7 +47,8 @@
       "url": "https://github.com/albizeka"
     }
   ],
-  "license": "MIT",
+  "license": "UNLICENSED",
+  "private": true,
   "bugs": {
     "url": "https://github.com/albizeka/manjakos-vuex-i18n/issues"
   },
