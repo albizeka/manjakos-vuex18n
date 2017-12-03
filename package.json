@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dkfbasel/vuex-i18n.git"
+    "url": "git+https://github.com/albizeka/vuex-i18n.git"
   },
   "keywords": [
     "localization",
@@ -40,6 +40,11 @@
       "name": "ktquez",
       "email": "ktquez@gmail.com",
       "url": "https://github.com/ktquez"
+    },
+    {
+      "name": "albi",
+      "email": "albiizeka@gmail.com",
+      "url": "https://github.com/albizeka"
     }
   ],
   "license": "MIT",
