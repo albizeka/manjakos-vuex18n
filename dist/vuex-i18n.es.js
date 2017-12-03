@@ -750,4 +750,4 @@ var index = {
 	plugin: VuexI18nPlugin
 };
 
-export default index;
+module.exports = index;

@@ -1,5 +1,5 @@
 {
-  "name": "vuex-i18n",
+  "name": "manjakos-vuex-i18n",
   "version": "1.8.0",
   "description": "Easy localization for vue-components using vuex as data store",
   "directories": {
